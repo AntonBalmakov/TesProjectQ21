@@ -1,6 +1,5 @@
 print('Halabala')
-print('Halabala')
-print('Halabala')
+
 
 """
 Создать функицю которая принемает 2 параметра и считает между ними сумму 
@@ -8,6 +7,12 @@ print('Halabala')
 
 
 def function_sum(a, b):
+    '''
+    Описание для функции
+    :param a:
+    :param b:
+    :return:
+    '''
     return a + b
 
 
